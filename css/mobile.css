@@ -1,0 +1,11 @@
+/* 480px-320px */
+@media (max-width: 321px) {
+    /* products */
+    .products {
+        padding: 32px 0 32px 8px;
+    }
+    /* catalog */
+    .catalog {
+        padding-inline: 8px;
+    }
+}
